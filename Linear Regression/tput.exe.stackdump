@@ -1,6 +1,0 @@
-    775 [main] tput 5568 cygwin_exception::open_stackdumpfile: Dumping stack trace to tput.exe.stackdump
-Stack trace:
-Frame     Function  Args
-0028CC68  6102A55C (612CDA24, 80039F40, 611994A0, 00000000)
-0028CD28  610076F6 (00000000, 0028CD84, 61007530, 00000000)
-End of stack trace
